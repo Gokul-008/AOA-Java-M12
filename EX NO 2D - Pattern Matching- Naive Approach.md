@@ -36,8 +36,8 @@ If all characters match (j == m), print "Pattern found at index i".
 ```
 /*
 Program to implement Reverse a String
-Developed by: Thanika Sree B
-Register Number: 212222100055
+Developed by: GOKUL M
+Register Number: 212222230037
 */
 
 import java.util.Scanner;
